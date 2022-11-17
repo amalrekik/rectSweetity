@@ -1,0 +1,41 @@
+[
+    {
+        "name": "High fat, Low carb",
+        "titreRoute":"High.fat,Low.carb",
+        "description": "Le régime low carb high fat consiste à diminuer sa consommation de glucides, qu’elles soient rapides ou lentes et d’augmenter sa consommation de gras. Donc en LCHF on limite strictement lea pâtes, le pain, le riz, les pommes de terre, mais également les fruits.",
+        "image":"./image/CARB.png",
+        "list1":["café noire", "1 orange", "2 oeufs"],
+        "goute1":["1 Yaourt nature (oykos) ou 2 petit suisse", "1 tas fruits secs"],
+        "list2":["Salade verte","omlette au choix (fromage, épinard, persil, onion..)","50g viande blanche"],
+        "goute2":["2 oeufs","Du lait ou Yaourt nature","granulats"],
+        "list3":["Soupe de légumes ou salade verte","80g viande blanche"],
+        "listDetox":[{"titre":"1 verre d'eau tiède +citron +gingembre","timing":"15min avant le petit déj"},{"titre":"1 verre d'eau tiède +citron +concombre +percile","timing":"30min avant le dîner"}],
+        "color":"rgb(179, 4, 44)"
+    },
+    {
+        "name": "High carb, Low fat",
+        "titreRoute":"High.carb,Low.fat",
+        "description": "Le régime High Carb consiste à s’alimenter essentiellement de glucides. Contrairement à de nombreux autres régimes alimentaires, celui-ci ne nécessite pas de suivre impérativement sa consommation de calories. Il s’agit avant tout de prêter attention à ses sensations de faim et de satiété naturelles.",
+        "image":"./image/FAT.png",
+        "list1":["café noire", "1 pomme"],
+        "goute1":["1 tartine pain complet","frais doux ou ricotte", "1 Yaourt 0%"],
+        "list2":["Salade verte au choix (avec: fromage, jambon, thon...)","200g viande blanche grillée ou 2 oeufs","10 c de riz ou 7c de pàte complétes"],
+        "goute2":["1 concombre","1 kiwi","2 morceaux chocolat noir"],
+        "list3":["Soupe ou salade verte","50g proteine"],
+        "listDetox":[{"titre":"1 verre d'eau tiède +citron +gingembre","timing":"15min avant le petit déj"},{"titre":"1 verre d'eau tiède +citron +concombre +percile","timing":"30min avant le dîner"}],
+        "color":"rgb(80, 142, 18)"
+    },
+    {
+        "name": "Jeûne intermittent",
+        "titreRoute":"Jeûne.intermittent",
+        "description": "Le jeûne intermittent recouvre une famille de régimes alimentaires consistant à alterner des périodes de jeûne et des périodes d’alimentation normale. Ces régimes seraient efficaces pour mincir, réduire le poids et la masse graisseuse",
+        "image":"./image/REVEIL.png",
+        "list1":["Pas de petit déjeuner"],
+        "goute1":["Pas de goûter"],
+        "list2":["salade verte","50g de proteine","Max 9c de pâtes ou de riz  /ou  sausse au choix avec 50g pain complet"],
+        "goute2":["café noir","1 petit morceau de gâteau fait maison"],
+        "list3":["Soupe","Salade verte","Omlette ou Viande blanche ou poisson grillée"],
+        "listDetox":[{"titre":"eau+concombre +menthe +citron","timing":"Durant tte la journée"}],
+        "color":"rgb(70, 42, 12)"
+    }
+]

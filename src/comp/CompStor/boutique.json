@@ -1,0 +1,189 @@
+[
+    {"id":1 ,
+    "titre":"Jwejem", 
+    "titreDetail":"Jwejem",
+    "prix":4 , 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":11},  {"var":"&#9829;", "id":12}, {"var":"&#9829;", "id":13}, {"var":"&#9829;", "id":14}, {"var":"&#9829;", "id":15}], 
+    "img":"./image/JWEJEM.jpg",
+    "ingredient":["yaourt","fruits secs", "chocolat", "biscuit", "date"],
+    "imgRouter": "../image/JWEJEMDET.jpg",
+    "titreRouter":"jwejem",
+    "regime":"healthy", 
+    "etat":false
+
+    },
+    {"id":2 ,
+    "titre":"Kg Daliloroché" ,
+    "titreDetail":"Daliloroché", 
+    "prix":20, 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":21},  {"var":"&#9829;", "id":22}, {"var":"&#9829;", "id":23}, {"var":"&#9829;", "id":24}, {"var":"&#9829;", "id":25}], 
+    "img":"./image/DALILO1.jpg"
+    ,
+    "ingredient":["chocolat Nutella", "fruits secs", "biscuit", "Noisette"],
+    "imgRouter": "../image/DALILO2.jpg",
+    "titreRouter":"dalilorocher",
+    "regime":"gourmand"
+    , 
+    "etat":false
+
+
+    },
+    
+    {"id":3 ,
+    "titre":"Kg Baklava Turk" , 
+    "titreDetail":"Baklava Turk",
+    "prix":50, 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":31},  {"var":"&#9829;", "id":32}, {"var":"&#9829;", "id":33}, {"var":"&#9829;", "id":34}, {"var":"&#9829;", "id":35}], 
+    "img":"./image/BAKLEVATURK.jpg",
+    "ingredient":["Pâte filo", "fruits secs", "serop", "miel"],
+    "imgRouter": "../image/BAKLEVATURK1.jpg",
+    "titreRouter":"baklevaturk.jpg",
+    "regime":"gourmand", 
+    "etat":false
+
+    },
+    {"id":4 ,
+    "titre":"Assida Noisette" , 
+    "titreDetail":"Assida Noisette",
+    "prix":5, 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":41},  {"var":"&#9829;", "id":42}, {"var":"&#9829;", "id":43}, {"var":"&#9829;", "id":44}, {"var":"&#9829;", "id":45}], 
+    "img":"./image/assida1.jpg",
+    "ingredient":["Noisette", "crème patissière"],
+    "imgRouter": "./image/assida.jpg",
+    "titreRouter":"assidanoisette",
+    "regime":"healthy", 
+    "etat":false
+
+    },
+    {"id":5 ,
+    "titre":"Tarte Fruits" ,
+    "titreDetail":"Tarte Fruits", 
+    "prix":30, 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":51},  {"var":"&#9829;", "id":52}, {"var":"&#9829;", "id":53}, {"var":"&#9829;", "id":54}, {"var":"&#9829;", "id":55}], 
+    "img":"./image/tartefruit.jpg",
+    "ingredient":["pâte brisé", "fruis","crème chanier", "crème patissière" ],
+    "imgRouter": "../image/TARTEFRUIT1.jpg",
+    "titreRouter":"tartefruits",
+    "regime":"healthy", 
+    "etat":false
+
+    },
+    {"id":6 ,
+    "titre":"Sheesecake" , 
+    "titreDetail":"Sheesecake",
+    "prix":7, 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":61},  {"var":"&#9829;", "id":62}, {"var":"&#9829;", "id":63}, {"var":"&#9829;", "id":64}, {"var":"&#9829;", "id":65}], 
+    "img":"./image/SHEESEK.jpg",
+    "ingredient":["sheese", "biscuit", "chocolat Nutella"],
+    "imgRouter": "../image/SEESEKK.jpg",
+    "titreRouter":"sheesecake",
+    "regime":"gourmand", 
+    "etat":false
+
+    },
+    
+    {"id":7 , 
+    "titre":"coupe chocolat", 
+    "titreDetail":"Coupe chocolat",
+    "prix":5, 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":71},  {"var":"&#9829;", "id":72}, {"var":"&#9829;", "id":73}, {"var":"&#9829;", "id":74}, {"var":"&#9829;", "id":75}], 
+    "img":"./image/CHOCO.jpg",
+    "ingredient":["mousse chocolat", "crème chanier", "biscuit", "fruits secs"],
+    "imgRouter": "../image/choco1.jpg",
+    "titreRouter":"coupechocolat",
+    "regime":"gourmand", 
+    "etat":false
+
+    },
+    {"id":8 ,
+    "titre":"kg Dates farcies" , 
+    "titreDetail":"Dates farcies",
+    "prix":15, 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":81},  {"var":"&#9829;", "id":82}, {"var":"&#9829;", "id":83}, {"var":"&#9829;", "id":84}, {"var":"&#9829;", "id":85}], 
+    "img":"./image/datefarce.jpg",
+    "ingredient":["dates", "fruits secs", "miel", "bssissa"],
+    "imgRouter": "../image/date1.jpg",
+    "titreRouter":"datesfarcies",
+    "regime":"healthy", 
+    "etat":false
+
+    },
+    {"id":9 ,
+    "titre":"DISPACITO" , 
+    "titreDetail":"DISPACITO",
+    "prix":35, 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":91},  {"var":"&#9829;", "id":92}, {"var":"&#9829;", "id":93}, {"var":"&#9829;", "id":94}, {"var":"&#9829;", "id":95}], 
+    "img":"./image/DISPACITO.jpg",
+    "ingredient":["génoise chocolat", "créme chocolat", "chocolat"],
+    "imgRouter": "../image/dispacito1.jpg",
+    "titreRouter":"dispacito",
+    "regime":"gourmand", 
+    "etat":false
+
+    },
+    {"id":10 ,
+    "titre":"Kunefa" , 
+    "titreDetail":"Kunefa",
+    "prix":15, 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":101},  {"var":"&#9829;", "id":102}, {"var":"&#9829;", "id":103}, {"var":"&#9829;", "id":104}, {"var":"&#9829;", "id":105}], 
+    "img":"./image/KOUNEFA1.jpg",
+    "ingredient":["Kunefa", "fruits secs", "miel"],
+    "imgRouter": "../image/KOUNEFA2.jpg",
+    "titreRouter":"kunefa",
+    "regime":"gourmand", 
+    "etat":false
+
+    },
+    
+    {"id":11 , 
+    "titre":"Ourta Tunisie", 
+    "titreDetail":"Ourta Tunisie",
+    "prix":15, 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":111},  {"var":"&#9829;", "id":112}, {"var":"&#9829;", "id":113}, {"var":"&#9829;", "id":114}, {"var":"&#9829;", "id":115}], 
+    "img":"./image/OURTA.jpg",
+    "ingredient":["Malsouka", "crème patissière", "fruits secs", "miel"],
+    "imgRouter": "../image/ourta1.jpg",
+    "titreRouter":"ourta",
+    "regime":"gourmand", 
+    "etat":false
+
+    },
+    {"id":12 , 
+    "titre":"kg Laklouka", 
+    "titreDetail":"Laklouka",
+    "prix":25, 
+    "quantite":0,
+    "Coeur":[
+        {"var":"&#9829;", "id":121},  {"var":"&#9829;", "id":122}, {"var":"&#9829;", "id":123}, {"var":"&#9829;", "id":124}, {"var":"&#9829;", "id":125}], 
+    "img":"./image/LAKLOUKA.jpg",
+    "ingredient":["Résain secs", "fruits secs", "droe", "bssissa", "huile d'olive"],
+    "imgRouter": "../image/LAKLOUKA1.jpg",
+    "titreRouter":"lakloukasfaxienne",
+    "regime":"healthy", 
+    "etat":false
+
+    }
+    
+]

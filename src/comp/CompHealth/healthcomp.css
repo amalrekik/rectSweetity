@@ -1,0 +1,60 @@
+
+    .flex-containerr1 {
+        display: flex;
+        flex-wrap: wrap;
+        align-items:flex-start;
+        height: auto;
+        padding-top: 10px;
+        padding-right: 0;
+        padding-left: 0;
+        height: 54.8vw
+        }
+      
+      .flex-containerr1 > div.indus {
+        height: 52.5vw;
+        width: 60%;
+        background-color: white;
+        text-align: left;
+      padding-left: 8vw;
+    padding-top: 19px;
+  }
+        .flex-containerr1 > div.pub {
+          height:   52.5vw;
+            width: 40%;
+            background-color: white;
+            text-align:left;
+            padding-top: 1px;
+          padding-left: 0;}
+            .arrierepla{
+   
+                background-repeat: no-repeat;
+                background-position: center;
+                width: 100%;
+                height: COVER;
+                background-size: 100% auto;
+                  background-blend-mode: overlay;
+                  height: fit-content;
+                  color:rgb(173, 171, 171)
+                }
+
+                .flex-container5{
+                  display: flex;
+                  flex-wrap: wrap;
+                  align-items:flex-start;
+                  height: auto;
+                  padding:0;
+                  align-items: center;
+                  margin-bottom:-20px;
+                  }
+                
+                .flex-container5 > div.mail {
+                  width: 27%;
+                  padding:0;
+                  text-align: left;
+
+            }
+                  .flex-container5 > div.ecrit {
+                      width: 60%;
+                      padding:0;
+                      text-align:left;
+            }
