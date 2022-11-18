@@ -7,7 +7,7 @@ export default function Home() {
  const navigate = useNavigate();
 
     return (
-        <div style={{ marginTop: '80px' }} className='arriereplan'>
+        <div style={{ marginTop: '80px', backgroundImage:'url(/image/baklava.png)' }} className='arriereplan' >
             <div className='flex-containerr' >
                 <div>
                 <img src="./image/CAFE.jpg" alt='CAFE'  className='image'/>
